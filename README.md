@@ -7,7 +7,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was ranked the 55th best powerlifting bench presser in the world for my weight class.
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
-- 🧚 [Check out my writing samples!](Technical Writing Portfolio.txt)
+- 🧚 [Check out my writing samples!](lizztest
+Update Technical Writing Portfolio)
 
 ### 💖 Writing is my passion 💖	
 
