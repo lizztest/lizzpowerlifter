@@ -1,4 +1,4 @@
-Lizz Smullen Technical Writing Porfolio
+# Lizz Smullen's Technical Writing Porfolio
 
 Hi! My name is Lizz Smullen. Welcome to my technical writing portfolio. I hope that you enjoy reading my technical writing as much as I did creating it.
 
@@ -13,8 +13,16 @@ I wrote an Ad blog series that describes technical process that Tubi uses to sel
 * [How Tubi uses Real-Time Bidding to Sell Ads](Technical%20Writing%20Portfolio#L8C0:~:text=How-,Customized,-Ads%20Personalize%20the )
 * [How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=EN%2DR1_HIT_ME_Release_Notes_v4_8_0.pdf-,How,-Customized%20Ads%20Personalize)
 * [How Tubi Uses Dynamic Metrics to track the cost and performance of an Ad Campaign](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How%20Tubi%20Uses-,Dynamic,-Metrics%20to%20Track%20the%20Cost%20an)
-* How Dynamic Pacing, Frequency, and Pacing 
+* [How Dynamic Pacing, Frequency, and Pacing Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How-,Dynamic,-Ad%20Pacing%2C%20Frequency)
 
+### Medium blogs
+
+As the managing editor for Tubi Engineering's Medium Home Page, I worked with engineers to enhance their technical blogs. The process involved rewriting, restructuring and reorganizing existing content to make it more clear, concise and interesting. I also would meet with Tubi engineers from Beijing to create blog posts. 
+
+The following are two of the blogs that I wrote that describe why Tubi changed from a two-player system to a single player system. The second blog describes the technology behind the new single player.
+
+* [Tubi’s New Android Player Architecture Supports All Playback Scenarios] (https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)
+* [How a Seamless Play Single-Player Improved the Tubi Viewing Experience] (https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9) 
 
 
 I wrote technical blogs for Medium.
