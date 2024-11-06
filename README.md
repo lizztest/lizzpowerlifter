@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**lizztest/lizztest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently writing a couple of local news stories.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for new technical writing roles.
@@ -12,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lizzsmullen@gmail.com. [Read my resume](https://github.com/lizztest/lizztest/edit/main/README.md#:~:text=Lizz%20Smullen-,101424,-(1).docx)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was once ranked the 55th best powerlifting bench presser in the world for my weight class.
--->
+
 ### More about me 
 About Me by Lizz Smullen
 
