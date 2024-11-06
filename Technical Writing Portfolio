@@ -10,10 +10,10 @@ Here's some of the interesting content that I wrote for Tubi.
 
 I wrote an Ad blog series that describes technical process that Tubi uses to sell, promote and personalize ads. Each blog was written from scratch, using Tubi Engineering documentation and ChatGPT. The purpose of these blogs was to teach new hires the different ways that Tubi works with ads.
 
-* [How Tubi uses Real-Time Bidding to Sell Ads](Technical%20Writing%20Portfolio#L8C0:~:text=How-,Customized,-Ads%20Personalize%20the )
-* [How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=EN%2DR1_HIT_ME_Release_Notes_v4_8_0.pdf-,How,-Customized%20Ads%20Personalize)
-* [How Tubi Uses Dynamic Metrics to track the cost and performance of an Ad Campaign](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How%20Tubi%20Uses-,Dynamic,-Metrics%20to%20Track%20the%20Cost%20an)
-* [How Dynamic Pacing, Frequency, and Pacing Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How-,Dynamic,-Ad%20Pacing%2C%20Frequency)
+- [How Tubi uses Real-Time Bidding to Sell Ads](Technical%20Writing%20Portfolio#L8C0:~:text=How-,Customized,-Ads%20Personalize%20the )
+- [How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=EN%2DR1_HIT_ME_Release_Notes_v4_8_0.pdf-,How,-Customized%20Ads%20Personalize)
+- [How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How%20Tubi%20Uses-,Dynamic,-Metrics%20to%20Track%20the%20Cost%20an)
+- [How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizztest/edit/main/Technical%20Writing%20Portfolio#:~:text=How-,Dynamic,-Ad%20Pacing%2C%20Frequency)
 
 ### Tubi Engineering Medium blogs
 
