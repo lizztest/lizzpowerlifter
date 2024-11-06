@@ -5,12 +5,12 @@
 - 🤔 I’m looking for new technical writing roles.
 - 💬 Ask me about my many years of expereience as a technical writer
 - 📫 How to reach me: lizzsmullen@gmail.com.
-- 🎺	[Read my resume] (https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20101424%20(1).docx)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was ranked the 55th best powerlifting bench presser in the world for my weight class.
 
-### More about me 
-About Me by Lizz Smullen
+I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
+
+### Writing is my passion 
 
 I have over 30 years as a technical writer, but I got my start as a professional writer while a member of the United States Air Force. While stationed at Bitburg Air Base, Germany, I wrote my squadron’s first Onboarding Program and Suggestion Program. 
 
