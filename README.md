@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for new technical writing roles.
 - 💬 Ask me about my many years of expereience as a technical writer
-- 📫 How to reach me: lizzsmullen@gmail.com
+- 📫 How to reach me: lizzsmullen@gmail.com. [Read my resume](https://github.com/lizztest/lizztest/edit/main/README.md#:~:text=Lizz%20Smullen-,101424,-(1).docx)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was once ranked the 55th best powerlifting bench presser in the world for my weight class.
 -->
