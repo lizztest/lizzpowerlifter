@@ -4,9 +4,10 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for new technical writing roles.
 - 💬 Ask me about my many years of expereience as a technical writer
-- 📫 How to reach me: lizzsmullen@gmail.com. [Read my resume](https://github.com/lizztest/lizztest/edit/main/README.md#:~:text=Lizz%20Smullen-,101424,-(1).docx)
+- 📫 How to reach me: lizzsmullen@gmail.com.
+- 🎺	[Read my resume] (https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20101424%20(1).docx)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I was once ranked the 55th best powerlifting bench presser in the world for my weight class.
+- ⚡ Fun fact: I was ranked the 55th best powerlifting bench presser in the world for my weight class.
 
 ### More about me 
 About Me by Lizz Smullen
