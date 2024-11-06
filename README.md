@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 - 🔭 I’m currently writing a couple of local news stories.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for new technical writing roles.
-- 💬 Ask me about my many years of expereience as a technical writer
-- 📫 How to reach me: lizzsmullen@gmail.com.
+- 💬 Ask me about my many years of expereience as a technical writer.
+- 📫 You can reach me at lizzsmullen@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was ranked the 55th best powerlifting bench presser in the world for my weight class.
+- 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
+- 🧚 [Check out my writing samples!](Technical Writing Portfolio.txt)
 
-I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
-
-### Writing is my passion 
+### 💖 Writing is my passion 💖	
 
 I have over 30 years as a technical writer, but I got my start as a professional writer while a member of the United States Air Force. While stationed at Bitburg Air Base, Germany, I wrote my squadron’s first Onboarding Program and Suggestion Program. 
 
