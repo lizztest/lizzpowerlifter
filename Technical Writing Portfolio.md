@@ -1,6 +1,8 @@
 # Lizz Smullen's Technical Writing Porfolio
 
-Hi! My name is Lizz Smullen. Welcome to my technical writing portfolio. I hope that you enjoy reading my technical writing as much as I did creating it.
+Hi! My name is Lizz Smullen. Welcome to my technical writing portfolio. I hope that you enjoy reading my technical writing samples as much as I did creating them.
+
+!
 
 ## Technical Writing at Tubi
 
