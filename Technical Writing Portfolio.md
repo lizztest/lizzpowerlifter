@@ -48,7 +48,7 @@ Here's several more technical writing samples, including guides for developers.
 
 ## Newspaper writing samples
 
-When I was a newspaper reporter, I covered four towns in the Monadnock Region of New Hampshire, including Temple, Mason, Greenville, and New Ipswich. The following are a few writing samples from my time at the Monadnock Ledger Transcript in Peterborough, NH.
+When I was a newspaper reporter, I covered four towns in the Monadnock Region of New Hampshire, including Temple, Mason, Greenville, and New Ipswich. The following are a few writing samples from my time at the **[Monadnock Ledger Transcript](https://ledgertranscript.com/)** in Peterborough, NH.
 
 - **[Brothers Foil Burglary](https://github.com/lizztest/lizzpowerlifter/blob/main/Temple%20burglary.pdf)**
 - **[Where is the Greenville Fire Chief?](https://github.com/lizztest/lizzpowerlifter/blob/main/MAGRlarrylegere_0722%20(2).docx.pdf)**
