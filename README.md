@@ -16,7 +16,7 @@
 
 ### 💖 Writing is my passion 💖	
 
-I have over 30 years as a technical writer, but I got my start as a professional writer while a member of the United States Air Force. While stationed at Bitburg Air Base, Germany, I wrote my squadron’s first Onboarding Program and Suggestion Program. 
+I have over 30 years as a technical writer, but I got my start as a professional writer while a member of the United States Air Force. When I was stationed at Bitburg Air Base, Germany, I wrote my squadron’s first Onboarding Program and Suggestion Program. 
 
 After leaving the military, I went to school for technical writing. One of my strongest skills is to write technical content from scratch. I’m really good at creating something out of nothing. In the past, I have created documentation sets for several companies, including an online auction house, a global education publisher, and a learning platform.  
 
