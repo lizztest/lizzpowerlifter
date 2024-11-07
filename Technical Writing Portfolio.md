@@ -50,7 +50,7 @@ Newspaper writing samples
 
 When I was a newspaper reporter, I covered four towns in the Monadnock Region of New Hampshire, including Temple, Mason, Greenville, and New Ipswich. The following are a few writing samples from my time at the Monadnock Ledger Transcript in Peterborough, NH.
 
-- **[Brothers Foil Burglary](https://github.com/lizztest/lizzpowerlifter/raw/main/Temple%20burglary.pdf)**
+- **[Brothers Foil Burglary](https://github.com/lizztest/lizzpowerlifter/blob/main/Temple%20burglary.pdf)**
 - **[Where is the Greenville Fire Chief?](https://github.com/lizztest/lizzpowerlifter/raw/main/MAGRlarrylegere_0722%20(2).docx.pdf)**
 - **[Greenville Fire Chief Goes to Jail](https://github.com/lizztest/lizzpowerlifter/raw/main/MAGRlegereinjail_0805.docx.pdf)**
 - **[Warwick Mills Makes Fabric for NASA](https://github.com/lizztest/lizzpowerlifter/raw/main/MANIWarwickMills_1127%20(1).docx.pdf)**
