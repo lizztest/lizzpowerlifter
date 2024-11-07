@@ -46,7 +46,7 @@ Here's several more technical writing samples, including guides for developers.
 - **Dell: [Equilogic HIT Release Notes for Microsoft](https://github.com/lizztest/lizzpowerlifter/raw/main/Dell%20Writing%20Sample%20--%20110-6218-EN-R1_HIT_ME_Release_Notes_v4_8_0.pdf)**
 - **Millipore: [How to prepare Bentonite clay](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20to%20prepare%20Bentonite%20clay.pdf)**
 
-Newspaper writing samples
+## Newspaper writing samples
 
 When I was a newspaper reporter, I covered four towns in the Monadnock Region of New Hampshire, including Temple, Mason, Greenville, and New Ipswich. The following are a few writing samples from my time at the Monadnock Ledger Transcript in Peterborough, NH.
 
