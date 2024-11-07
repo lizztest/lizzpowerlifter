@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤔 I’m looking for new technical writing roles
+- 🤔 I’m looking for a new technical writing role
 - 💬 Ask me about my many years of expereience as a technical writer
 - 📫 You can reach me at lizzsmullen@gmail.com
 - 😄 Pronouns: She/Her
