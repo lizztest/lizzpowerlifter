@@ -36,8 +36,11 @@ As the sole tech writer for Tanzu Services and Solutions. I spent my time editin
 
 To help engineers write their own structured learning paths, I wrote a **[Spring Style Guide](https://github.com/lizztest/lizzpowerlifter/raw/main/Spring%20Style%20Guide.pdf)** to help them get started.
 
-## Technical Writing Samples from Autodesk, Astronics, Dell and Millipore
+## Technical Writing Samples from HP, Autodesk, Astronics, Dell and Millipore
 
+Here's several more technical writing samples, including guides for developers.
+
+- **Hewlett Packard: 
 - **Autodesk: [Navisworks Issues Add-in 2.4.0 release notes](https://github.com/lizztest/lizzpowerlifter/raw/main/Navisworks%20Issues%20Add-in%202.4.0%20release%20notes_LS_012121.pdf)**
 - **Astronics: [SATCOM Interface Descriptions Document](https://github.com/lizztest/lizzpowerlifter/blob/main/Interface%20Description%20Document%20ACMU%20Writing%20Sample%20(1).pdf)**
 - **Dell: [Equilogic HIT Release Notes for Microsoft](https://github.com/lizztest/lizzpowerlifter/raw/main/Dell%20Writing%20Sample%20--%20110-6218-EN-R1_HIT_ME_Release_Notes_v4_8_0.pdf)**
