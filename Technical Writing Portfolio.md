@@ -1,6 +1,6 @@
 # Lizz Smullen's Technical Writing Porfolio
 
-Welcome to my technical writing portfolio! I hope that you enjoy reading my technical writing samples as much as I did creating them.
+🌞 Welcome to my technical writing portfolio! I hope that you enjoy reading my technical writing samples as much as I did creating them.
 
 ## Technical Writing at Tubi
 
