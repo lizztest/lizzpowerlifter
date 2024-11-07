@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently writing a couple of local news stories.
-- 🤔 I’m looking for new technical writing roles.
-- 💬 Ask me about my many years of expereience as a technical writer.
-- 📫 You can reach me at lizzsmullen@gmail.com.
+- 🔭 I’m currently writing a couple of local news stories
+- 🤔 I’m looking for new technical writing roles
+- 💬 Ask me about my many years of expereience as a technical writer
+- 📫 You can reach me at lizzsmullen@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I was ranked the 55th best powerlifting bench presser in the world for my weight class.
+- ⚡ Fun fact: I was once ranked the 55th best powerlifting bench presser in the world for my weight class
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
 - 🧚 [Check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/raw/main/Technical%20Writing%20Portfolio.md)
 
