@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently writing a couple of local news stories
 - 🤔 I’m looking for new technical writing roles
 - 💬 Ask me about my many years of expereience as a technical writer
 - 📫 You can reach me at lizzsmullen@gmail.com
