@@ -9,6 +9,11 @@
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/raw/main/Lizz%20Smullen%20101424%20(1).docx)
 - 🧚 [Check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md)
 
+<p align="center">
+  <img src="https://github.com/lizztest/lizzpowerlifter/raw/main/AdobeStock_415859523.jpeg" alt="Descriptive Alt Text" width="168" />
+</p>
+
+
 ### 💖 Writing is my passion 💖	
 
 I have over 30 years as a technical writer, but I got my start as a professional writer while a member of the United States Air Force. While stationed at Bitburg Air Base, Germany, I wrote my squadron’s first Onboarding Program and Suggestion Program. 
