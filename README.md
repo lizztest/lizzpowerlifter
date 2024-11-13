@@ -4,7 +4,6 @@
 - 💬 Ask me about my many years of experience as a technical writer
 - 📫 You can reach me at lizzsmullen@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I was once ranked the 55th best powerlifting bench presser in the world for my weight class
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20110624.pdf)
 - 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md)
 
