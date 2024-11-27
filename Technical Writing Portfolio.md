@@ -6,15 +6,6 @@
 
 Here's some of the interesting content that I wrote for Tubi.
 
-### Ad Blog Series
-
-I wrote an Ad blog series that describes the technical process that Tubi follows to sell, promote and personalize ads. Each blog was written from scratch, using Tubi Engineering documentation and ChatGPT. The purpose of these blogs was to teach new hires the different ways that Tubi works with ads.
-
-- **[How Tubi uses Real-Time Bidding to Sell Ads](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20uses%20Real-Time%20Bidding%20to%20Sell%20Ads%207aab1ffe49a0400a959c952360cdc3d7.pdf)**
-- **[How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Customized%20Ads%20Personalize%20the%20Tubi%20User%20Exper%2041e845f1383c45688f9567504f37754a.pdf)**
-- **[How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20Uses%20Dynamic%20Metrics%20to%20Track%20the%20Cost%20an%20fdbdcee1ca42479e8bf98dabe8e01d6a.pdf)**
-- **[How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Dynamic%20Pacing,%20Frequency,%20and%20Placement%20Optimizes%20Ad%20Performance%20at%20Tubi.pdf)**
-
 ### Tubi Engineering Medium Blogs
 
 As the managing editor for **[Tubi Engineering's Medium Home Page](https://code.tubitv.com/)**, it was my job to publish technical content. The process involved new writing, rewriting, restructuring and reorganizing draft content written by engineers so that it would be more clear, concise and compelling. Part of my responsibilities included meeting with individual engineers to help write their blog posts. 
@@ -24,6 +15,20 @@ I wrote the following two blogs with content provided by Tubi's Beijing Engineer
 * **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**: This blog tells the story of why Tubi switched from a two-player system to a single player system to stream content.
 * **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**: This blog describes how Tubi Engineers designed a data-driven MVP (Model-View-Presenter) layered architecture to support the player’s current functionalities and future evolutionhe new single player.
 * **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**
+
+I edited and strongly revised the following technical blogs by Tubi Machine Learning and Data Science Teams for technical accuracy, clarity, conciseness and flow.
+
+* **[Tubi Time Series KPIs Outliers Detection](https://code.tubitv.com/tubi-time-series-kpis-outliers-detection-39e5b994fba)**: This blog describes a new alerting system that detects outliers and trends in our Key Performance Indicators (KPIs) developed by Tubi's Data Science Team. 
+* **[Powering Personalized Binge-Watching: A Journey of Real Time Multi-Interest Based Retrieval](https://code.tubitv.com/powering-personalized-binge-watching-a-journey-of-real-time-multi-interest-based-retrieval-8aa39ed127a)**: This blog describes the quickest way to generate retrieval candidates that show what the users already likes to watch, then generate more, similar candidates. Using the embeddings, we can generate the nearest neighbors in the user’s watch space.
+  
+### Ad Blog Series
+
+I wrote an Ad blog series that describes the technical process that Tubi follows to sell, promote and personalize ads. Each blog was written from scratch, using Tubi Engineering documentation and ChatGPT. The purpose of these blogs was to teach new hires the different ways that Tubi works with ads.
+
+- **[How Tubi uses Real-Time Bidding to Sell Ads](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20uses%20Real-Time%20Bidding%20to%20Sell%20Ads%207aab1ffe49a0400a959c952360cdc3d7.pdf)**
+- **[How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Customized%20Ads%20Personalize%20the%20Tubi%20User%20Exper%2041e845f1383c45688f9567504f37754a.pdf)**
+- **[How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20Uses%20Dynamic%20Metrics%20to%20Track%20the%20Cost%20an%20fdbdcee1ca42479e8bf98dabe8e01d6a.pdf)**
+- **[How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Dynamic%20Pacing,%20Frequency,%20and%20Placement%20Optimizes%20Ad%20Performance%20at%20Tubi.pdf)**
 
 ### Tubi's Behind-the-Scenes Fireside Tech Chats
 
