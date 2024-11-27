@@ -19,10 +19,10 @@ I wrote an Ad blog series that describes the technical process that Tubi follows
 
 As the managing editor for **[Tubi Engineering's Medium Home Page](https://code.tubitv.com/)**, it was my job to publish technical content. The process involved new writing, rewriting, restructuring and reorganizing draft content written by engineers so that it would be more clear, concise and compelling. Part of my responsibilities included meeting with individual engineers to help write their blog posts. 
 
-I wrote the following two blogs with content provided by two Beijing Engineers. The first blog describes why Tubi decided to switch from a two-player system to a single player system to stream content. The second blog describes the technology behind the new single player.
+I wrote the following two blogs with content provided by Tubi's Beijing Engineers. 
 
-* **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**
-* **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**
+* **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**: This blog tells the story of why Tubi switched from a two-player system to a single player system to stream content.
+* **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**: This blog describes how Tubi Engineers designed a data-driven MVP (Model-View-Presenter) layered architecture to support the player’s current functionalities and future evolutionhe new single player.
 * **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**
 
 ### Tubi's Behind-the-Scenes Fireside Tech Chats
