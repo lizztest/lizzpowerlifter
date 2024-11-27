@@ -14,12 +14,13 @@ I wrote the following two blogs with content provided by Tubi's Beijing Engineer
 
 * **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**: This blog tells the story of why Tubi switched from a two-player system to a single player system to stream content.
 * **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**: This blog describes how Tubi Engineers designed a data-driven MVP (Model-View-Presenter) layered architecture to support the player’s current functionalities and future evolutionhe new single player.
-* **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**
+* **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**: Each year Tubi has a hackathon. This blog describes the winning demos from 2023.
+  
+I edited and revised the following technical blogs by Tubi Machine Learning and Data Science Teams to ensure technical accuracy, clarity, conciseness and flow.
 
-I edited and strongly revised the following technical blogs by Tubi Machine Learning and Data Science Teams for technical accuracy, clarity, conciseness and flow.
-
+* **[Powering Personalized Binge-Watching: A Journey of Real Time Multi-Interest Based Retrieval](https://code.tubitv.com/powering-personalized-binge-watching-a-journey-of-real-time-multi-interest-based-retrieval-8aa39ed127a)**: This blog describes how Tubi leveraged 70+ models to personalize user experiences through retrieval and ranking systems for improved binge-watching.
 * **[Tubi Time Series KPIs Outliers Detection](https://code.tubitv.com/tubi-time-series-kpis-outliers-detection-39e5b994fba)**: This blog describes a new alerting system that detects outliers and trends in our Key Performance Indicators (KPIs) developed by Tubi's Data Science Team. 
-* **[Powering Personalized Binge-Watching: A Journey of Real Time Multi-Interest Based Retrieval](https://code.tubitv.com/powering-personalized-binge-watching-a-journey-of-real-time-multi-interest-based-retrieval-8aa39ed127a)**: This blog describes the quickest way to generate retrieval candidates that show what the users already likes to watch, then generate more, similar candidates. Using the embeddings, we can generate the nearest neighbors in the user’s watch space.
+
   
 ### Ad Blog Series
 
