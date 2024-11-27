@@ -6,7 +6,7 @@
 
 Here's some of the interesting content that I wrote for Tubi.
 
-### Ad blog series
+### Ad Blog Series
 
 I wrote an Ad blog series that describes the technical process that Tubi follows to sell, promote and personalize ads. Each blog was written from scratch, using Tubi Engineering documentation and ChatGPT. The purpose of these blogs was to teach new hires the different ways that Tubi works with ads.
 
@@ -15,7 +15,7 @@ I wrote an Ad blog series that describes the technical process that Tubi follows
 - **[How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20Uses%20Dynamic%20Metrics%20to%20Track%20the%20Cost%20an%20fdbdcee1ca42479e8bf98dabe8e01d6a.pdf)**
 - **[How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Dynamic%20Pacing,%20Frequency,%20and%20Placement%20Optimizes%20Ad%20Performance%20at%20Tubi.pdf)**
 
-### Tubi Engineering Medium blogs
+### Tubi Engineering Medium Blogs
 
 As the managing editor for **[Tubi Engineering's Medium Home Page](https://code.tubitv.com/)**, it was my job to publish technical content. The process involved new writing, rewriting, restructuring and reorganizing draft content written by engineers so that it would be more clear, concise and compelling. Part of my responsibilities included meeting with individual engineers to help write their blog posts. 
 
@@ -23,6 +23,7 @@ I wrote the following two blogs with content provided by two Beijing Engineers. 
 
 * **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**
 * **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**
+* **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**
 
 ### Tubi's Behind-the-Scenes Fireside Tech Chats
 
@@ -46,7 +47,7 @@ Here's several more technical writing samples, including guides for developers.
 - **Dell: [Equilogic HIT Release Notes for Microsoft](https://github.com/lizztest/lizzpowerlifter/raw/main/Dell%20Writing%20Sample%20--%20110-6218-EN-R1_HIT_ME_Release_Notes_v4_8_0.pdf)**
 - **Millipore: [How to prepare Bentonite clay](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20to%20prepare%20Bentonite%20clay.pdf)**
 
-## Newspaper writing samples
+## News Writing Samples
 
 When I was a newspaper reporter, I covered four towns in the Monadnock Region of New Hampshire, including Temple, Mason, Greenville, and New Ipswich. The following are a few writing samples from my time at the **[Monadnock Ledger Transcript](https://ledgertranscript.com/)** in Peterborough, NH.
 
