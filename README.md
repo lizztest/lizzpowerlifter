@@ -4,7 +4,7 @@
 - 💬 Ask me about my many years of experience as a technical writer
 - 📫 You can reach me at lizzsmullen@gmail.com
 - 😄 Pronouns: She/Her
-- 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20NEW.pdf)
+- 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20Writer%20021725.pdf)
 - 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md)
 
 <p align="center">
