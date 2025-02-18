@@ -1,6 +1,6 @@
 # Lizz Smullen's Technical and News Writing Porfolio
 
-🌞 Welcome to my technical and news writing portfolio! Here you will find clear and compelling technical documentation, including blogs that I ghostwrote for engineers creating great technology. You'll also want to check out the engaging news stories that I wrote for the Monadnock Ledger-Transcript.  
+🌞 Welcome to my technical and news writing portfolio! Here, you'll find clear and compelling technical documentation, including blogs I ghostwrote for engineers developing innovative technology. You’ll also find engaging news stories I reported for the Monadnock Ledger-Transcript, covering impactful local events and issues. Take a look and explore my work! 
 
 ## Technical Writing at Tubi
 
