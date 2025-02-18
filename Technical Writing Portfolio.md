@@ -1,6 +1,6 @@
 # Lizz Smullen's Technical and News Writing Porfolio
 
-🌞 Welcome to my technical writing portfolio! I hope that you enjoy reading my technical writing samples as much as I did creating them.
+🌞 Welcome to my technical and news writing portfolio! Here you will find clear and compelling technical documentation, including blogs that I ghostwrote for engineers creating great technology. You'll also want to check out the engaging news stories that I wrote for the Monadnock Ledger-Transcript.  
 
 ## Technical Writing at Tubi
 
@@ -8,15 +8,15 @@ Here's some of the interesting content that I wrote for Tubi.
 
 ### Tubi Engineering Medium Blogs
 
-As the managing editor for **[Tubi Engineering's Medium Home Page](https://code.tubitv.com/)**, it was my job to publish technical content. The process involved new writing, rewriting, restructuring and reorganizing draft content written by engineers so that it would be more clear, concise and compelling. Part of my responsibilities included meeting with individual engineers to help write their blog posts. 
+As the managing editor for **[Tubi Engineering's Medium Home Page](https://code.tubitv.com/)**, I was responsible for publishing technical content that was clear, concise, and engaging. This involved everything from new writing to rewriting, restructuring, and refining draft content from engineers to improve clarity and readability.
 
-I wrote the following three blogs with content provided by Tubi's Beijing Engineers in GitHub. 
+A key part of my role was working directly with engineers, helping them shape their blog posts into compelling narratives. I also ghostwrote several technical blogs for members of Tubi’s Beijing Engineering Team, ensuring their expertise was effectively communicated to a broader audience.
 
 * **[How a Seamless Play Single-Player Improved the Tubi Viewing Experience](https://code.tubitv.com/how-a-seamless-play-single-player-improved-the-tubi-viewing-experience-70933bcb68f9)**: This blog tells the story of why Tubi switched from a two-player system to a single player system to stream content.
 * **[Tubi’s New Android Player Architecture Supports All Playback Scenarios](https://code.tubitv.com/tubis-new-android-player-architecture-supports-all-playback-scenarios-322ee3a7153c)**: This blog describes how Tubi Engineers designed a data-driven MVP (Model-View-Presenter) layered architecture to support the player’s current functionalities and future evolutionhe new single player.
 * **[Tubi-a-thon](https://code.tubitv.com/tubi-a-thon-2023-1624ac03056)**: Each year Tubi has a hackathon. This blog describes the winning demos from 2023.
   
-I edited and revised the following technical blogs originally written by members of Tubi's Machine Learning and Data Science Teams to ensure technical accuracy, clarity, conciseness and structural flow.
+I edited and revised the following technical blogs, originally written by members of Tubi's Machine Learning and Data Science Teams, to ensure technical accuracy, clarity, conciseness, and structural flow.
 
 * **[Powering Personalized Binge-Watching: A Journey of Real Time Multi-Interest Based Retrieval](https://code.tubitv.com/powering-personalized-binge-watching-a-journey-of-real-time-multi-interest-based-retrieval-8aa39ed127a)**: This blog describes how Tubi leveraged 70+ models to personalize user experiences through retrieval and ranking systems for improved binge-watching.
 * **[Tubi Time Series KPIs Outliers Detection](https://code.tubitv.com/tubi-time-series-kpis-outliers-detection-39e5b994fba)**: This blog describes a new alerting system that detects outliers and trends in our Key Performance Indicators (KPIs) developed by Tubi's Data Science Team. 
@@ -24,7 +24,7 @@ I edited and revised the following technical blogs originally written by members
   
 ### Ad Blog Series
 
-I wrote an Ad blog series that describes the technical process that Tubi follows to sell, promote and personalize ads. Each blog was written from scratch, using Tubi Engineering documentation and ChatGPT. The purpose of these blogs was to teach new hires the different ways that Tubi works with ads.
+I wrote a series of ad-focused blogs detailing Tubi’s technical process for selling, promoting, and personalizing ads. Each blog was created from scratch using Tubi Engineering documentation and ChatGPT. The goal of this series was to help new hires understand the various ways Tubi works with ads.
 
 - **[How Tubi uses Real-Time Bidding to Sell Ads](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20uses%20Real-Time%20Bidding%20to%20Sell%20Ads%207aab1ffe49a0400a959c952360cdc3d7.pdf)**
 - **[How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Customized%20Ads%20Personalize%20the%20Tubi%20User%20Exper%2041e845f1383c45688f9567504f37754a.pdf)**
@@ -33,7 +33,7 @@ I wrote an Ad blog series that describes the technical process that Tubi follows
 
 ### Tubi's Behind-the-Scenes Fireside Tech Chats
 
-During the summer, Tubi held Behind-the-Scenes Fireside Tech Chats with prominent leaders in technology. During the tech chat, I would type the entire conversation, then write key takeaways that would benefit emerging leaders. The key takeaways were published on Medium and LinkedIn.
+During the summer, Tubi hosted Behind-the-Scenes Fireside Tech Chats featuring prominent technology leaders. During these sessions, I transcribed the conversations in real time and extracted key takeaways designed to benefit emerging leaders. These insights were then published on Medium and LinkedIn.
 
 - **[Tubi’s Behind-the-Scenes Fireside Tech Chat Kicks off with Kumo CEO Vanja Josifovski](https://www.linkedin.com/feed/update/urn:li:activity:7239715657884323842/)**
 
