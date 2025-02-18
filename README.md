@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-- 🤔 I’m looking for a new technical writing role
-- 💬 Ask me about my many years of experience as a technical writer
-- 📫 You can reach me at lizzsmullen@gmail.com
-- 😄 Pronouns: She/Her
+- 🤔 I’m looking for a new technical writing role.
+- 💬 Ask me about my many years of experience as a journalist and as a technical writer.
+- 📫 You can reach me at lizzsmullen@gmail.com.
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen_Writer_021725.pdf))
-- 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md)
+- 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md).
 
 <p align="center">
   <img src="https://github.com/lizztest/lizzpowerlifter/raw/main/AdobeStock_415859523.jpeg" alt="Descriptive Alt Text" width="168" />
