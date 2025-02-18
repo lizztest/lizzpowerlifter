@@ -61,8 +61,8 @@ As a news reporter for the **[Monadnock Ledger Transcript](https://ledgertranscr
 - **[Where is the Greenville Fire Chief?](https://github.com/lizztest/lizzpowerlifter/blob/main/MAGRlarrylegere_0722%20(2).docx.pdf)**
 - **[Greenville Fire Chief Goes to Jail](https://github.com/lizztest/lizzpowerlifter/blob/main/MAGRlegereinjail_0805.docx.pdf)**
 - **[Warwick Mills Makes Fabric for NASA](https://github.com/lizztest/lizzpowerlifter/blob/main/MANIWarwickMills_1127%20(1).docx.pdf)**
-- **[Greenville Treasurerer Guilty](https://github.com/lizztest/lizzpowerlifter/blob/main/Zeb%20Kellog%20Roe%20--%20Guilty%20Verdict.pdf)
-- **[New Ipswich Residents Refuse to Demolish Mold Infested Poloice Station](https://github.com/lizztest/lizzpowerlifter/blob/main/Residents%20Fight%20to%20Keep%20New%20Ipswich's%20Mold%20Infested%20Police%20Station.pdf)
+- **[Greenville Treasurerer Guilty](https://github.com/lizztest/lizzpowerlifter/blob/main/Zeb%20Kellog%20Roe%20--%20Guilty%20Verdict.pdf)**
+- **[New Ipswich Residents Refuse to Demolish Mold Infested Police Station](https://github.com/lizztest/lizzpowerlifter/blob/main/Residents%20Fight%20to%20Keep%20New%20Ipswich's%20Mold%20Infested%20Police%20Station.pdf)**
 
 
 
