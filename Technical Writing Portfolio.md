@@ -26,10 +26,10 @@ I edited and revised the following technical blogs, originally written by member
 
 I wrote a series of ad-focused blogs detailing Tubi’s technical process for selling, promoting, and personalizing ads. Each blog was created from scratch using Tubi Engineering documentation and ChatGPT. The goal of this series was to help new hires understand the various ways Tubi works with ads.
 
-- **[How Tubi uses Real-Time Bidding to Sell Ads](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20uses%20Real-Time%20Bidding%20to%20Sell%20Ads%207aab1ffe49a0400a959c952360cdc3d7.pdf)**
-- **[How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Customized%20Ads%20Personalize%20the%20Tubi%20User%20Exper%2041e845f1383c45688f9567504f37754a.pdf)**
-- **[How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Tubi%20Uses%20Dynamic%20Metrics%20to%20Track%20the%20Cost%20an%20fdbdcee1ca42479e8bf98dabe8e01d6a.pdf)**
-- **[How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizzpowerlifter/blob/main/How%20Dynamic%20Pacing,%20Frequency,%20and%20Placement%20Optimizes%20Ad%20Performance%20at%20Tubi.pdf)**
+- **[How Tubi uses Real-Time Bidding to Sell Ads](https://github.com/lizztest/lizzpowerlifter/raw/main/How%20Tubi%20uses%20Real-Time%20Bidding%20to%20Sell%20Ads%207aab1ffe49a0400a959c952360cdc3d7.pdf)**
+- **[How Customized Ads Personalize the Tubi User Experience](https://github.com/lizztest/lizzpowerlifter/raw/main/How%20Customized%20Ads%20Personalize%20the%20Tubi%20User%20Exper%2041e845f1383c45688f9567504f37754a.pdf)**
+- **[How Tubi Uses Dynamic Metrics to Track the Cost and Performance of an Ad Campaign](https://github.com/lizztest/lizzpowerlifter/raw/main/How%20Tubi%20Uses%20Dynamic%20Metrics%20to%20Track%20the%20Cost%20an%20fdbdcee1ca42479e8bf98dabe8e01d6a.pdf)**
+- **[How Dynamic Pacing, Frequency, and Placement Optimizes Ad Performance at Tubi](https://github.com/lizztest/lizzpowerlifter/raw/main/How%20Dynamic%20Pacing,%20Frequency,%20and%20Placement%20Optimizes%20Ad%20Performance%20at%20Tubi.pdf)**
 
 ### Tubi's Behind-the-Scenes Fireside Tech Chats
 
