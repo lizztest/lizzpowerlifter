@@ -3,7 +3,7 @@
 - 🤔 I’m looking for a technical writing or news writing role.
 - 💬 Ask me about my many years of experience as a technical writer and a news reporter.
 - 📫 You can reach me at lizzsmullen@gmail.com.
-- 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen_Writer_021725.pdf))
+- 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen%20Tech%20and%20UX%20Writer%20070425.docx%20(1).pdf)
 - 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md).
 
 <p align="center">
