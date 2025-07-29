@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🤔 I’m looking for a new news or technical writing role.
-- 💬 Ask me about my many years of experience as a journalist and as a technical writer.
+- 🤔 I’m looking for a technical writing or news writing role.
+- 💬 Ask me about my many years of experience as a technical writer and a news reporter.
 - 📫 You can reach me at lizzsmullen@gmail.com.
 - 👑 I'd love for you to [read my resume](https://github.com/lizztest/lizzpowerlifter/blob/main/Lizz%20Smullen_Writer_021725.pdf))
 - 🧚 Be sure to [check out my technical writing portfolio](https://github.com/lizztest/lizzpowerlifter/blob/main/Technical%20Writing%20Portfolio.md).
