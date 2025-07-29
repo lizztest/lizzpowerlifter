@@ -11,16 +11,17 @@
 </p>
 
 
-### 💖 Writing is my passion 💖	
+### 💖 Technical Writing is my passion 💖	
 
-I’m a journalist and technical writer with a knack for finding compelling stories and making complex topics easy to understand.
+I have been a technical writer for 33 years. I excel at distilling complex instructions and teachings into compelling, interesting, and understandable content. My specialty is creating something out of nothing. I have made multiple doc libraries from scratch, migrated hundreds of technical pages, edited all kinds of engineering blogs for publishing, and have written all types of technical documentation, including user guides, admin guides, installation guides, programming guides, interface guides, and RestAPIs for many high tech companies, incuding Dell, HP, and VMware. I also spent some time technical writing for the entertainment industry, working as Tubi's first technical writer.
 
-As a reporter for the Monadnock Ledger-Transcript in Peterborough, NH, I covered four towns that had been frustrated by a lack of local news. Within my first month, circulation in those areas increased by 13%, which is well above the typical 3-4% bump when a new reporter starts. I built strong relationships with selectmen, police chiefs, and fire chiefs, which helped me uncover important stories—many of which landed on the front page, including under the fold. My reporting earned first place for Spot News and Investigative Reporting from the New Hampshire Press Association, and I was part of a team that received the Dennis Joos Memorial Award for courageous journalism.
+### 💖 News writing thrills me 💖	 
 
-My writing career started in the U.S. Air Force, where I developed the first Onboarding and Suggestion Programs for the 36th Services Squadron at Bitburg Air Base, Germany. After leaving the military, I studied both journalism and technical writing in Boston, which gave me a strong foundation in both storytelling and structured communication.
+I had always wanted to be a news writer. I knew I would be good at it, and I was. Once my tech writing career was secure, I began freelancing for the Boston Business Journal and the Revere Journal. I wrote about everything from amateur investment clubs to the latest wedding gowns to local high school sports. 
 
-Alongside journalism, I’ve spent 30 years as a technical writer, creating documentation from scratch for industries ranging from e-learning to manufacturing. While at a manufacturing company, I trained documentation assistants in technical writing and developed phonetic work instructions to help non-native English speakers learn to read American English while building products independently.
+When I moved to New Hampshire, I became a reporter for the Monadnock Ledger-Transcript in Peterborough, NH. My beat included four towns that didn't take kindly to reporters. I attended community suppers, town meetings, selectmen meetings, school board meetings, and pretty much anywhere else there was an event taking place. I knew I could change things by writing their stories. One month after I started, circulation in those areas increased by 13%, which is far above the typical 3-4% bump when a new reporter starts. I made it a point to build strong relationships with selectmen, police chiefs, fire chiefs, and the residents. My stories continuously made the front page, including under the fold. The people in the towns were happy too, because they were getting much-deserved recognition for their achievements. I competed in a few New Hampshire Press Association contests. I won multiple awards, including first place for Spot News and Investigative Reporting, as well as the Dennis Joos Memorial Award for courageous journalism.
 
-I also enjoy helping others refine their writing. As the managing editor for Tubi’s Engineering Homepage on Medium, I worked with engineers in the U.S. and Beijing to make their technical blogs clear and engaging. To make the process easier, I built a Publishing Hub in Notion, giving them a structured workflow for content creation.
+### 💖 My writing career started in the USAF 💖	
 
-Whether I’m reporting on local issues or writing technical content, my goal is always the same: to communicate information in a way that’s clear, engaging, and meaningful.
+My writing career started in the U.S. Air Force, where I wrote the first Onboarding and Suggestion Programs for the 36th Services Squadron at Bitburg Air Base, Germany. It is also where I got my start managing publication libraries. After leaving the military, I studied both journalism and technical writing in Boston, where I also began my tech writing career.
+
